@@ -1,2 +1,3 @@
 # Ruby-on-Rails
-Aims Community College - Ruby on Rails Intro: Software Development of Web Applications
+Aims Community College - Ruby Intro
+Software Development of Web Applications
