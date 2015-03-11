@@ -1,2 +1,2 @@
 # Ruby-on-Rails
-Ruby on Rails Language: Software Development of Web Applications
+Aims Community College - Ruby on Rails Intro: Software Development of Web Applications
